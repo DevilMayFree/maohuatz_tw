@@ -932,7 +932,7 @@ $('#info-nav div').click(function(e){
 						<div class="footer_item">
 				<p id="p01">電話：04-22546161</p>
 				<p id="p02">信箱：service@richholder.info</p>
-				<p id="p03">地址：台中市西屯區市政北七路186號10樓之3</p>
+				<p id="p03">地址：臺北市中正區濟南路一段15號4樓</p>
 			</div>
 			<div class="footer_link">
 				<a href="https://www.facebook.com/%E7%9D%BF%E7%A6%BE%E6%8A%95%E8%B3%87%E9%A1%A7%E5%95%8F-101021432331041" target="_blank"><img src="https://pic03.eapple.com.tw/richholder168/fb-web2021.svg"></a>
